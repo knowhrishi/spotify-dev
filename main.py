@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import streamlit as st
 
-CLIENT_ID = 'd6cf77c016f9443aa41dc992e4532464'
-CLIENT_SECRET = '119dc27b862b467db03b361f8e4cb8ae'
+CLIENT_ID = '-'
+CLIENT_SECRET = '-'
 REDIRECT_URI = 'https://localhost:3000'
 
 
